@@ -4,8 +4,8 @@
 // To turn on "Sign in with Google", paste the values from
 // Firebase console > Project settings > Your apps > Web app > SDK setup and configuration > Config
 window.FIREBASE_CONFIG = {
-  apiKey: "PASTE_API_KEY_HERE",
-  authDomain: "PASTE_PROJECT_ID.firebaseapp.com",
-  projectId: "PASTE_PROJECT_ID",
-  appId: "PASTE_APP_ID"
+  apiKey: "AIzaSyDgtJiYy0NcZK-H0BWGo2kFXYOf_S5HivA",
+  authDomain: "hyrox-block.firebaseapp.com",
+  projectId: "hyrox-block",
+  appId: "1:496249960970:web:708b7537ffd401fa03bdf3"
 };
